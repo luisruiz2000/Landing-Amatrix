@@ -1,0 +1,114 @@
+{
+  "home_navbar": {
+    "about_us": "¿Quienes somos?",
+    "funtioning": "¿Como funciona?",
+    "how-to-take-part": "¿Como puedo participar?",
+    "terms": "Terminos",
+    "login": "Iniciar sección",
+    "register": "Registrarse"
+  },
+  "banner": {
+    "title_one": "Lorem ipsum dolor sit amet,",
+    "title_two": "consectetuer",
+    "title_three": "adipiscing",
+    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquamerat volutpat. Ut wisi enim ad minim veniam, quis",
+    "text_one": "+128k",
+    "subtitle_one": "Lorem, ipsum dolor.",
+    "text_two":"+2 M",
+    "subtitle_two": "Lorem, ipsum dolor.",
+    "text_three": "+3 M USD",
+    "subtitle_three": "Lorem, ipsum dolor.",
+    "text_bt":"Comenzar"
+  },
+  "about_us": {
+    "title": "¿Quiens somos?",
+    "subtitle": "El Futuro de los Contratos",
+    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lo- bortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat."
+  },
+  "videos": {
+    "title": "¿Cómo puedo Participar?",
+    "subtitle": "Lorem ipsum dolor"
+  },
+
+  "testimonials": {
+    "title":"testimonio",
+    "title-two": "Lorem ipsum dolor",
+    "text-card": "“Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo",
+    "title-card":"Nombre Persona",
+    "subtitle-card":"CEO, Nombre de empresa"
+  },
+
+  "contact": {
+    "title": "Contactanos",
+    "location": "Tenjin Business Center, Japan.",
+    "mail": "support@betsignal.io",
+    "phone": "+1 702 9641681",
+    "form_title": "Regístrate para recibir actualizaciones por correo electrónico",
+    "input_placeholder": "Tu correo electrónico",
+    "button": "Suscribite", 
+    "privacy_policy": "Política de privacidad",
+    "terms_conditions": "Terminos y condiciones",
+    "faqs": "faqs"
+  },
+
+  "how_work": {
+    "title": "¿Como funciona?",
+    "Subtitle":"Lorem ipsum dolor",
+    "title_card_one": "Lorem ipsumdolor lorem ipsum",
+    "text_card_one": "Ingrese a nuestro sitio web o descargue nuestra app.\n\nNo se preocupe por instalar molestas y pesadas plataformas, nuestro diseño es amigable con el usuario y puede ser usado desde la web, así como instalado en su dispositivo móvil.",
+    "title_card_two": "Lorem ipsum dolor lorem ipsum",
+    "text_card_two": "Regístrese o Inicie sesión.\n\nCree su cuenta con tranquilidad, sus datos personales siempre serán anónimos y encriptados. Sin verificaciones que ponga en riesgo su identidad. Somos una plataforma 100% descentralizada.",
+    "title_card_three": "Lorem ipsumdolor lorem ipsum",
+    "text_card_three": "Regístrese o Inicie sesión.\n\nCree su cuenta con tranquilidad, sus datos personales siempre serán anónimos y encriptados. Sin verificaciones que ponga en riesgo su identidad. Somos una plataforma 100% descentralizada."
+  },
+  "footer": {
+    "text": "RESERVADOS TODOS LOS DERECHOS"
+  },
+
+  "privacy_policy": {
+    "title": "Políticas de privacidad",
+    "text_one": "AMTRIX respeta su privacidad y se compromete a proteger y respetar sus datos personales. Esta política de privacidad tiene como objetivo brin- darle información sobre cómo recopilamos y procesamos cualquier dato personal, es decir, información sobre un Cliente (como se deﬁne a continuación) que es una persona física sobre la base de la cual se puede identiﬁcar a ese Cliente (en adelante, los datos ) de acuerdo con la legislación aplicable en materia de protección de datos y las mejores prácticas.",
+    "text_two": "AMTRIX respeta su privacidad y se compromete a proteger y respetar sus datos personales. Esta política de privacidad tiene como objetivo brin- darle información sobre cómo recopilamos y procesamos cualquier dato personal, es decir, información sobre un Cliente (como se deﬁne a continuación) que es una persona física sobre la base de la cual se puede identiﬁcar a ese Cliente (en adelante, los datos ) de acuerdo con la legislación aplicable en materia de protección de datos y las mejores prácticas.",
+    "text_three": "AMTRIX respeta su privacidad y se compromete a proteger y respetar sus datos personales. Esta política de privacidad tiene como objetivo brin- darle información sobre cómo recopilamos y procesamos cualquier dato personal, es decir, información sobre un Cliente (como se deﬁne a continuación) que es una persona física sobre la base de la cual se puede identiﬁcar a ese Cliente (en adelante, los datos ) de acuerdo con la legislación aplicable en materia de protección de datos y las mejores prácticas."
+  },
+  "terms_conditions": {
+    "title": "Términos y Condiciones",
+    "subtile": "General Terms and Conditions",
+    "text_one": "AMTRIX respeta su privacidad y se compromete a proteger y respetar sus datos personales. Esta política de privacidad tiene como objetivo brin- darle información sobre cómo recopilamos y procesamos cualquier dato personal, es decir, información sobre un Cliente (como se deﬁne a continuación) que es una persona física sobre la base de la cual se puede identiﬁcar a ese Cliente (en adelante, los datos ) de acuerdo con la legislación aplicable en materia de protección de datos y las mejores prácticas.",
+    "text_two": "AMTRIX respeta su privacidad y se compromete a proteger y respetar sus datos personales. Esta política de privacidad tiene como objetivo brin- darle información sobre cómo recopilamos y procesamos cualquier dato personal, es decir, información sobre un Cliente (como se deﬁne a continuación) que es una persona física sobre la base de la cual se puede identiﬁcar a ese Cliente (en adelante, los datos ) de acuerdo con la legislación aplicable en materia de protección de datos y las mejores prácticas.",
+    "text_three": "AMTRIX respeta su privacidad y se compromete a proteger y respetar sus datos personales. Esta política de privacidad tiene como objetivo brin- darle información sobre cómo recopilamos y procesamos cualquier dato personal, es decir, información sobre un Cliente (como se deﬁne a continuación) que es una persona física sobre la base de la cual se puede identiﬁcar a ese Cliente (en adelante, los datos ) de acuerdo con la legislación aplicable en materia de protección de datos y las mejores prácticas."
+  },
+  "login": {
+    "title": "Iniciar Sesión",
+    "email": "Correo Electrónico",
+    "error_email": "Correo electrónico invalido",
+    "password": "Contraseña",
+    "error_password": "Contraseña invalida",
+    "button": "Iniciar Sesión"
+  },
+  "register": {
+    "title": "Registrarme",
+    "name": "Nombre",
+    "error_name": "Nombre invalido",
+    "email": "Correo Electrónico",
+    "error_email": "Correo electrónico invalido",
+    "password": "Contraseña",
+    "error_password": "Contraseña invalida",
+    "password_confirm": "Confirmación de contraseña",
+    "error_password_confirm": "Las contraseñas no coinciden",
+    "phone": "Teléfono",
+    "error_phone": "Teléfono invalido",
+    "referral_code": "Código de referido",
+    "error_referral_code": "Código de referido invalido",
+    "button": "Registrarme"
+  },
+  "faqs": {
+    "title": "Preguntas Frecuentes",
+    "title_one": "titulo uno",
+    "response_one": "respuesta uno",
+    "title_two": "titulo dos",
+    "response_two": "respuesta dos",
+    "title_three": "titulo tres",
+    "response_three": "respuesta tres"
+  }
+}

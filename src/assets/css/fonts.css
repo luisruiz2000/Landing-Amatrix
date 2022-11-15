@@ -1,0 +1,39 @@
+@font-face {
+  font-family: Font-Bold;
+  src: url('../fonts/Roboto/Roboto-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Font-Medium;
+  src: url('../fonts/Roboto/Roboto-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Font-Regular;
+  src: url('../fonts/Roboto/Roboto-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Font-Light;
+  src: url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+/* @font-face {
+  font-family: Font-Bold;
+  src: url('../fonts/Montserrat/static/Montserrat-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Font-Medium;
+  src: url('../fonts/Montserrat/static/Montserrat-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Font-Regular;
+  src: url('../fonts/Montserrat/static/Montserrat-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: Font-Light;
+  src: url('../fonts/Montserrat/static/Montserrat-Light.ttf') format('truetype');
+} */

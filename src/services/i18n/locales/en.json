@@ -1,0 +1,112 @@
+{
+  "home_navbar": {
+    "about_us": "About us?",
+    "funtioning": "how does it wor?",
+    "how-to-take-part": "How can I participate?",
+    "terms": "Terms",
+    "login": "Log in",
+    "register": "Check in"
+  },
+  "banner": {
+    "title_one": "Instant access to",
+    "title_two": "INVESTMENT,",
+    "title_three": "anytime, anywhere",
+    "text": "Trade our octal trading system, get technical analysis, access historical results and much more. Everything you've been looking for is on one platform, and on the device of your choice.",
+    "text_one": "+128k",
+    "subtitle_one": "Lorem, ipsum dolor.",
+    "text_two":"+2 M",
+    "subtitle_two": "Lorem, ipsum dolor.",
+    "text_three": "+3 M USD",
+    "subtitle_three": "Lorem, ipsum dolor.",
+    "text_bt":"Begin"
+  },
+  "about_us": {
+    "title": "About us?",
+    "subtitle": "The Future of Contracts",
+    "text": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lo- bortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat."
+  },
+  "videos": {
+    "title": "KNOW MORE ABOUT US",
+    "subtitle": "Lorem ipsum dolor"
+  },
+  "testimonials": {
+    "title":"testimony",
+    "title-two": "Lorem ipsum dolor",
+    "text-card": "“Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo",
+    "title-card":"Marbelle Beker",
+    "subtitle-card":"CEO, Company Name"
+  },
+  "contact": {
+    "title": "Contact us",
+    "location": "Tenjin Business Center, Japan.",
+    "mail": "support@betsignal.io",
+    "phone": "+1 702 9641681",
+    "form_title": "NEWSLETTER SIGN UP TO RECEIVE EMAIL UPDATES.",
+    "input_placeholder": "Your email",
+    "button": "Subscribe",
+    "privacy_policy": "Privacy Policy",
+    "terms_conditions": "Terms and conditions",
+    "faqs": "faqs"
+  },
+
+  "how_work": {
+    "title": "How does it work?",
+    "Subtitle":"Lorem ipsum dolor",
+    "title_card_one": "Lorem ipsum dolor lorem ipsum",
+    "text_card_one": "Visit our website or download our app.\n\nDon't worry about installing annoying and heavy platforms, our design is user friendly and can be used from the web, as well as installed on your mobile device.",
+    "title_card_two": "Lorem ipsum dolor lorem ipsum",
+    "text_card_two": "Sign up or Sign in.\n\nCreate your account with peace of mind, your personal data will always be anonymous and encrypted. No verifications that put your identity at risk. We are a 100% decentralized platform.",
+    "title_card_three": "Lorem ipsum dolor lorem ipsum",
+    "text_card_three": "Visit our website or download our app.\n\nDon't worry about installing annoying and heavy platforms, our design is user friendly and can be used from the web, as well as installed on your mobile device."
+  },
+  "footer": {
+    "text": "ALL RIGHTS RESERVED"
+  },
+  
+  "privacy_policy": {
+    "title": "Privacy policies",
+    "text_one": "AMTRIX respects your privacy and is committed to protecting and respecting your personal data. This privacy policy is intended to provide you with information on how we collect and process any personal data, i.e. information about a Client (as defined below) that is a natural person on the basis of which that Client can be identified. Client (hereinafter, the data) in accordance with the applicable legislation on data protection and best practices.",
+    "text_two": "AMTRIX respects your privacy and is committed to protecting and respecting your personal data. This privacy policy is intended to provide you with information on how we collect and process any personal data, i.e. information about a Client (as defined below) that is a natural person on the basis of which that Client can be identified. Client (hereinafter, the data) in accordance with the applicable legislation on data protection and best practices.",
+    "text_three": "AMTRIX respects your privacy and is committed to protecting and respecting your personal data. This privacy policy is intended to provide you with information on how we collect and process any personal data, i.e. information about a Client (as defined below) that is a natural person on the basis of which that Client can be identified. Client (hereinafter, the data) in accordance with the applicable legislation on data protection and best practices."
+  },
+  "terms_conditions": {
+    "title": "Terms and Conditions",
+    "subtile": "General Terms and Conditions",
+    "text_one": "AMTRIX respects your privacy and is committed to protecting and respecting your personal data. This privacy policy is intended to provide you with information about how we collect and process any personal data, i.e. information about a Client (as defined below) that is a natural person on the basis of which that Client can be identiﬁed. Client (hereinafter, the data) in accordance with the applicable legislation on data protection and best practices.",
+    "text_two": "AMTRIX respects your privacy and is committed to protecting and respecting your personal data. This privacy policy is intended to provide you with information about how we collect and process any personal data, i.e. information about a Client (as defined below) that is a natural person on the basis of which that Client can be identiﬁed. Client (hereinafter, the data) in accordance with the applicable legislation on data protection and best practices.",
+    "text_three": "AMTRIX respects your privacy and is committed to protecting and respecting your personal data. This privacy policy is intended to provide you with information about how we collect and process any personal data, i.e. information about a Client (as defined below) that is a natural person on the basis of which that Client can be identiﬁed. Client (hereinafter, the data) in accordance with the applicable legislation on data protection and best practices."
+  },
+  "login": {
+    "title": "Login",
+    "email": "Email",
+    "error_email": "Invalid email",
+    "password": "Password",
+    "error_password": "Invalid password",
+    "button": "Login"
+  },
+  "register": {
+    "title": "Register",
+    "name": "Name",
+    "error_name": "Invalid name",
+    "email": "Email",
+    "error_email": "Invalid email",
+    "password": "Password",
+    "error_password": "Invalid password",
+    "password_confirm": "Password confirm",
+    "error_password_confirm": "Passwords do not match",
+    "phone": "Phone",
+    "error_phone": "Invalid phone",
+    "referral_code": "Referral code",
+    "error_referral_code": "Invalid referral code",
+    "button": "Register"
+  },
+  "faqs": {
+    "title": "Frequent questions",
+    "title_one": "title one",
+    "response_one": "response one",
+    "title_two": "title two",
+    "response_two": "response two",
+    "title_three": "title three",
+    "response_three": "response three"
+  }
+}
