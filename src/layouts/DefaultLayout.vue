@@ -24,12 +24,12 @@ export default {
 
 <style>
 
-.default-layout-main{
+/* .default-layout-main{
   background-image: url(../assets/images/banner/bg-banner.png);
   background-repeat: no-repeat;
   background-position: 0 0;
-  background-size: 100vw 110vh;
-}
+  background-size: 110vw 100vh;
+} */
 
 .default-layout {
   width: 100%;

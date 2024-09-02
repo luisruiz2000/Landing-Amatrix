@@ -1,7 +1,7 @@
 /* variables */
 :root {
   --primary-color: #00003a;
-  --secondary-color: #d20c70; 
+  --secondary-color: #d20c70;
   --light-color: #ffffff;
   --dark-color: #000000;
   --gray-color: #707070;
@@ -105,11 +105,11 @@
   padding-left: 6.5rem;
 }
 
-.pr-1{
+.pr-1 {
   padding-right: 2rem !important;
 }
 
-.pr-2{
+.pr-2 {
   padding-right: 1.5rem !important;
 }
 
@@ -268,11 +268,11 @@
   width: 70%;
 }
 
-.height-1{
+.height-1 {
   height: 155vh;
 }
 
-.full-height{
+.full-height {
   height: 100vh;
 }
 
@@ -431,7 +431,7 @@
   letter-spacing: 0.1rem !important;
 }
 
-.h4{
+.h4 {
   font-family: Font-Medium;
   font-size: 1rem !important;
 }
@@ -457,23 +457,23 @@
 }
 
 /* tamaño de fuentes */
-.font-size1{
+.font-size1 {
   font-size: .8rem;
 }
 
-.font-size2{
+.font-size2 {
   font-size: 1rem;
 }
 
-.font-size3{
+.font-size3 {
   font-size: 1.5rem;
 }
 
-.font-size4{
+.font-size4 {
   font-size: 2rem;
 }
 
-.fz-3rem{
+.fz-3rem {
   font-size: 3rem;
 }
 
@@ -500,13 +500,11 @@
 
 /* boders */
 .border-right {
-  border-right: 3px solid #FF0093
-;
+  border-right: 3px solid #FF0093;
 }
 
 .border-button {
-  border-bottom: 3px solid #FF0093
-  ;
+  border-bottom: 3px solid #FF0093;
 }
 
 /* buttons */
@@ -532,7 +530,7 @@
   color: var(--light-color);
   padding: .5rem;
   border-radius: .8rem;
-  border: solid 1px  var(--secondary-color);
+  border: solid 1px var(--secondary-color);
   outline: none;
   cursor: pointer;
   text-transform: capitalize;

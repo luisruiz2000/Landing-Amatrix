@@ -7,9 +7,7 @@
       {{ $t('videos.subtitle') }}
     </h2>
     <slide index="4" class="custom-slide">
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/JuJviszm2cU" title="YouTube video player"
-        frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/PGIFXHmw_js?si=iQ6uxkaPiChAVqwN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </slide>
   </section>
 </template>
